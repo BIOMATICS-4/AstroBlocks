@@ -14,28 +14,44 @@ AstroBlocks combines a falling-block construction puzzle with interactive explor
 
 ### Controls
 
-| Action | PC / laptop |
+| Game mode / action | PC / laptop |
 | --- | --- |
-| Move falling blocks left / right | ← / → |
-| Rotate falling blocks | ↑ |
-| Move falling blocks down | ↓ |
-| Drop falling block | Space |
-| Pause puzzle | P |
-| Navigate the astronaut / rover in exploration mode | Arrow keys or W/A/S/D |
+| Construction: move falling blocks left / right | ← / → or A / D |
+| Construction: rotate falling blocks | ↑, W or Z |
+| Construction: move falling blocks down | ↓ or S |
+| Construction: instantly drop falling block | Space |
+| Pause / close a dialog | P or Esc |
+| Field exploration: move astronaut / rover | Arrow keys or W/A/S/D |
+| Field exploration: interact | E or Enter |
+| Mars field exploration: board / exit vehicle | R |
+| Rover and aerial science expeditions: steer / aim | Arrow keys |
+| Rover and aerial science expeditions: perform prompted action | Enter or on-screen action button |
+| ISS deorbit training: directional alignment / stabilisation | ← / → |
 
 On phones and tablets, use the on-screen movement, construction and interaction controls. Follow the context-specific mission prompts for interactions, surveying and sampling. Keyboard functions depend on the active game mode.
 
 ## Missions and campaign
 
-The campaign contains 16 stages, with three principal scientifically informed missions presented in the recommended progression:
+The campaign contains 16 stages. The three principal scientifically informed missions are listed first in the recommended learning progression; additional stages are grouped by destination. Mission titles and objectives below are taken from the public HTML game's level definitions.
 
-| Mission | Main activities |
-| --- | --- |
-| 1. International Space Station (ISS) | Build solar power, battery storage, cabin air and water systems; learn about orbital conditions and the ISS retirement/deorbit concept. |
-| 2. Jezero Crater (Mars) | Establish a habitat, conduct Ingenuity-inspired aerial scouting, and perform Perseverance-inspired rover exploration and geological sampling. |
-| 3. Sea of Tranquility (Moon) | Develop lunar habitat systems, grow plants, manage irrigation and protect the habitat from environmental hazards. |
-
-Additional campaign environments and scientific themes extend the exploration to Olympus Mons and other Martian and lunar settings, as well as locations farther into the Solar System. The three principal missions are the main data-informed learning experiences; the remaining stages extend the educational gameplay.
+| Destination | Mission | Main objective |
+| --- | --- | --- |
+| Earth orbit | **International Space Station — Keep the crew breathing** | Build solar wings, a battery, air and recycled-water systems; explore orbital conditions and the related ISS deorbit training sequence. |
+| Mars | **Jezero Crater — Ride out the dust** | Store power and build a shelter; undertake Ingenuity-inspired aerial scouting and Perseverance-inspired rover exploration and geological sampling. |
+| Moon | **Sea of Tranquility — Grow a Moon garden** | Plant and water a seed in the greenhouse, and close the impact cover. |
+| Moon | Tranquility terminator — Chase the last sunlight | Charge the battery before sunset. |
+| Moon | Connecting Ridge — Anchor the sun wings | Select a foundation and brace the solar wings before shadow arrives. |
+| Moon | Peary region — Find a sunlit pad | Compare landing pads for solar availability. |
+| Mars | Elysium Planitia — Rescue the battery | Build twin solar wings and recharge the battery. |
+| Mars | Olympus Mons — Build on the mountain | Choose a landing pad and stabilise the station with footings. |
+| Mars | Valles Marineris — Connect the canyon | Select a crossing and power a distant relay. |
+| Mars | Gale Crater — Staff the lookout | Build a detector and shelter; maintain lookout power. |
+| Mars | Northern polar plains — Keep the lab warm | Insulate the lab and activate its heater. |
+| Mars | Deep-space relay — Send a message home | Build and power a dish; observe the communication delay. |
+| Mars | Greenhouse outpost — Grow a space garden | Build a greenhouse and water loop; activate grow lights. |
+| Asteroid belt | Vesta research camp — Protect the rover | Shelter the rover and keep its beacon powered. |
+| Jupiter system | Europa ice lab — Warm the ice probe | Insulate the probe and run its heater on stored power. |
+| Saturn system | Titan haze lab — Call through the haze | Warm the radio and transmit a signal. |
 
 ### Scientific and geographical interpretation
 
