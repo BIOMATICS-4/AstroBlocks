@@ -8,6 +8,16 @@ The submission uses NASA DONKI, RadLab, Mars Trek, OSDR-associated research and 
 
 The playable release is available in [index.html](index.html). Creator-only shortcuts are disabled in the public release.
 
+## How to play — Mars expeditions
+
+- **PC/laptop:** Use the arrow keys (↑, ↓, ←, →) or W/A/S/D to move the astronaut and drive the rover in the Mars exploration mode. Follow the directional guidance and highlighted objectives to reach survey and sampling sites.
+- **Touchscreen devices:** Use the on-screen movement and interaction controls.
+- The aerial scouting expedition is inspired by NASA's Ingenuity helicopter, while the ground expedition is inspired by Perseverance's geological exploration and rock sampling.
+
+### Scientific and geographical interpretation
+
+The Jezero Crater mission is an educational composite, combining aerial scouting and rover sampling objectives with NASA imagery, scientific observations and mission references from Jezero and other regions of Mars. Jezero is the principal setting, but not every terrain feature, environmental reference or scientific activity is intended to represent its exact real-world location. The routes, distances and mission sequence are simplified for gameplay rather than a geographically exact reconstruction of the actual missions.
+
 ## NASA data and scientific resources
 
 **Submission documentation (15 November 2026):** At the last successful verification, 15 individual NASA resource links were saved in the official [Space Apps project form](https://www.spaceappschallenge.org/2026/find-a-team/celestial-body/?tab=project), including the four core challenge resources. The complete register below documents all **38 principal resources** used or referenced in AstroBlocks, including the additional 23, alongside supplementary direct data and imagery references. The count refers to the last verified saved editor state, not a separate verification of the judging snapshot.
