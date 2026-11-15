@@ -6,4 +6,12 @@ AstroBlocks is a Tetris-inspired educational space exploration game featuring 16
 
 The submission uses NASA DONKI, RadLab, Mars Trek, OSDR-associated research and additional NASA scientific references. Gameplay uses simplified educational models rather than operational spacecraft predictions.
 
-The playable release and source documentation are prepared for upload. Creator-only shortcuts are disabled in the public release.
+The playable release is available in [index.html](index.html). Creator-only shortcuts are disabled in the public release.
+
+## NASA data and scientific resources
+
+[**NASA resources and scientific references**](NASA-RESOURCES.md) — the consolidated register of 38 principal resources used in AstroBlocks, with additional direct data and image references and a description of how each principal resource informs gameplay.
+
+## Demonstration
+
+[Watch the AstroBlocks project demonstration on YouTube](https://youtu.be/-Wiu-TRp1o0).
