@@ -6,7 +6,9 @@ AstroBlocks is a Tetris-inspired educational space exploration game featuring 16
 
 The submission uses NASA DONKI, RadLab, Mars Trek, OSDR-associated research and additional NASA scientific references. Gameplay uses simplified educational models rather than operational spacecraft predictions.
 
-The playable release is available in [index.html](index.html). Creator-only shortcuts are disabled in the public release.
+**[Play AstroBlocks in your browser](https://biomatics-4.github.io/AstroBlocks/)** · [Download the standalone HTML](index.html)
+
+The current playable build includes public **Master Access**, a demonstration mode for trying any of the 16 stages or selected expeditions directly. Learn Bot introduces this option on the landing screen. Demonstration runs do not save campaign medals. The normal campaign retains the original guided tutorial, progression requirements and a 2:30 active-play countdown per stage.
 
 ## How to play
 
@@ -23,6 +25,10 @@ AstroBlocks combines a falling-block construction puzzle with interactive explor
 | Pause / close a dialog | P or Esc |
 | Field exploration: move astronaut / rover | Arrow keys or W/A/S/D |
 | Field exploration: interact | E or Enter |
+| ISS repair EVA: short jet burst when no mission action is ready | E |
+| ISS and lunar astronaut: jet burst (increasing strength) | Quickly tap ↑ two, three or four times |
+| ISS and lunar astronaut: sustained jet propulsion / descend | Hold F / Shift |
+| Lunar astronaut: low-gravity hop | Space |
 | Mars field exploration: board / exit vehicle | R |
 | Rover and aerial science expeditions: steer / aim | Arrow keys |
 | Rover and aerial science expeditions: perform prompted action | Enter or on-screen action button |
@@ -36,9 +42,9 @@ The campaign contains 16 stages. The three principal scientifically informed mis
 
 | Destination | Mission | Main objective |
 | --- | --- | --- |
-| Earth orbit | **International Space Station — Keep the crew breathing** | Build solar wings, a battery, air and recycled-water systems; explore orbital conditions and the related ISS deorbit training sequence. |
-| Mars | **Jezero Crater — Ride out the dust** | Store power and build a shelter; undertake Ingenuity-inspired aerial scouting and Perseverance-inspired rover exploration and geological sampling. |
-| Moon | **Sea of Tranquility — Grow a Moon garden** | Plant and water a seed in the greenhouse, and close the impact cover. |
+| Earth orbit | **International Space Station — Keep the crew breathing** | Build solar wings, a battery, air and recycled-water systems and a repair kit; shelter the crew, repair the docking latch and guide Dragon to the ISS. The related deorbit training sequence is accessible in Master Access. |
+| Mars | **Jezero Crater — Ride out the dust** | Build a solar array, battery, shelter and vehicle service bay; undertake Ingenuity-inspired aerial scouting and Perseverance-inspired rover exploration and return a geological sample. |
+| Moon | **Sea of Tranquility — Grow a Moon garden** | Build lunar habitat systems and a survey kit; deploy a surface instrument and return to the lander, collect a rover sample, plant and water a seed in the greenhouse and close the impact cover. |
 | Moon | Tranquility terminator — Chase the last sunlight | Charge the battery before sunset. |
 | Moon | Connecting Ridge — Anchor the sun wings | Select a foundation and brace the solar wings before shadow arrives. |
 | Moon | Peary region — Find a sunlit pad | Compare landing pads for solar availability. |
