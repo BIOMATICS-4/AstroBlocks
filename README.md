@@ -8,11 +8,34 @@ The submission uses NASA DONKI, RadLab, Mars Trek, OSDR-associated research and 
 
 The playable release is available in [index.html](index.html). Creator-only shortcuts are disabled in the public release.
 
-## How to play — Mars expeditions
+## How to play
 
-- **PC/laptop:** Use the arrow keys (↑, ↓, ←, →) or W/A/S/D to move the astronaut and drive the rover in the Mars exploration mode. Follow the directional guidance and highlighted objectives to reach survey and sampling sites.
-- **Touchscreen devices:** Use the on-screen movement and interaction controls.
-- The aerial scouting expedition is inspired by NASA's Ingenuity helicopter, while the ground expedition is inspired by Perseverance's geological exploration and rock sampling.
+AstroBlocks combines a falling-block construction puzzle with interactive exploration and science missions. Complete construction and science objectives, maintain essential resources, and follow Learn Bot's guidance to progress through the campaign.
+
+### Controls
+
+| Action | PC / laptop |
+| --- | --- |
+| Move falling blocks left / right | ← / → |
+| Rotate falling blocks | ↑ |
+| Move falling blocks down | ↓ |
+| Drop falling block | Space |
+| Pause puzzle | P |
+| Navigate the astronaut / rover in exploration mode | Arrow keys or W/A/S/D |
+
+On phones and tablets, use the on-screen movement, construction and interaction controls. Follow the context-specific mission prompts for interactions, surveying and sampling. Keyboard functions depend on the active game mode.
+
+## Missions and campaign
+
+The campaign contains 16 stages, with three principal scientifically informed missions presented in the recommended progression:
+
+| Mission | Main activities |
+| --- | --- |
+| 1. International Space Station (ISS) | Build solar power, battery storage, cabin air and water systems; learn about orbital conditions and the ISS retirement/deorbit concept. |
+| 2. Jezero Crater (Mars) | Establish a habitat, conduct Ingenuity-inspired aerial scouting, and perform Perseverance-inspired rover exploration and geological sampling. |
+| 3. Sea of Tranquility (Moon) | Develop lunar habitat systems, grow plants, manage irrigation and protect the habitat from environmental hazards. |
+
+Additional campaign environments and scientific themes extend the exploration to Olympus Mons and other Martian and lunar settings, as well as locations farther into the Solar System. The three principal missions are the main data-informed learning experiences; the remaining stages extend the educational gameplay.
 
 ### Scientific and geographical interpretation
 
